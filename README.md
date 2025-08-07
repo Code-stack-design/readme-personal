@@ -26,12 +26,11 @@
 
 | Project | Description | Link |
 |--------|-------------|------|
-| 🎮 Rock Paper Scissors | A simple JavaScript game | [View Repo](#) |
-| 🧮 Calculator | Basic Calculator using HTML/CSS/JS | [View Repo](#) |
-| 🕒 Digital Clock | Real-time digital clock in JS | [View Repo](#) |
+| 🎮 Rock Paper Scissors | A simple JavaScript game | [View Repo](https://github.com/Code-stack-design/Rock-Paper-Scissor-Game.git) |
+| 🧮 Calculator | Basic Calculator using HTML/CSS/JS | [View Repo](https://github.com/Code-stack-design/Calculator.git) |
+| 🕒 Digital Clock | Real-time digital clock in JS | [View Repo](https://github.com/Code-stack-design/Rock-Paper-Scissor-Game.git) |
 | 📊 Portfolio Website | Personal portfolio using HTML/CSS | [Coming soon](https://github.com/Code-stack-design/Portfolio.git) |
-[Food Sorter](https://github.com/Code-stack-design/Food-Sorter.git_)
-[TicTacToe](https://github.com/Code-stack-design/TicTacToe.git)
+
 ### 🔗 Connect With Me
 [![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/parvathyv)
