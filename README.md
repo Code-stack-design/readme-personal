@@ -28,7 +28,7 @@
 |--------|-------------|------|
 | 🎮 Rock Paper Scissors | A simple JavaScript game | [View Repo](https://github.com/Code-stack-design/Rock-Paper-Scissor-Game.git) |
 | 🧮 Calculator | Basic Calculator using HTML/CSS/JS | [View Repo](https://github.com/Code-stack-design/Calculator.git) |
-| 🕒 Digital Clock | Real-time digital clock in JS | [View Repo](https://github.com/Code-stack-design/Rock-Paper-Scissor-Game.git) |
+| 🕒 Digital Clock | Real-time digital clock in JS | [View Repo](https://github.com/Code-stack-design/digital-clock-javascript.git) |
 | 📊 Portfolio Website | Personal portfolio using HTML/CSS | [Coming soon](https://github.com/Code-stack-design/Portfolio.git) |
 
 ### 🔗 Connect With Me
